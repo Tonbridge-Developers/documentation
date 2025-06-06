@@ -36,7 +36,7 @@
       },
       {
         "tab": "API Reference",
-        "openapi": "https://api.tonbridge.school/openapi/v1.json"
+        "openapi": "https://api.tonbridge.school/openapi/v1.json",
         "groups": [
           {
             "group": "API Documentation",
